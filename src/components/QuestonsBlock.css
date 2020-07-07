@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.main-block {
+  padding: 25px 20px 0;
+  width: 600px;
+  background-color: #fff;
+  border-radius: 7px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.title {
+  font-size: 32px;
+  margin-bottom: 20px;
+  color: #222222;
+}
+.subtitle {
+  display: block;
+  font-size: 16px;
+  text-indent: 17px;
+  margin-bottom: 35px;
+  color: rgb(99, 99, 99);
+}
